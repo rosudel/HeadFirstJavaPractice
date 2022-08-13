@@ -1,1 +1,1 @@
-# HeadFirstJavaPractice
+All the exercise of Head First Java will assigned here.
